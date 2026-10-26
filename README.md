@@ -600,3 +600,5 @@ Este README descreve a versão do `index.html` disponibilizada nesta etapa da co
 - jurisprudência indicativa;
 - atualização automática ao trocar o setor;
 - exportação de relatório HTML.
+
+Your site is live at https://alcane1959.github.io/lexscan-brasil/
