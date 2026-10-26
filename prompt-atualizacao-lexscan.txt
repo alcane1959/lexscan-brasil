@@ -1,0 +1,26 @@
+Use o arquivo index.html anexado como única versão-base do projeto LexScan Brasil.
+
+Faça uma revisão completa e atualize somente o que for necessário, observando as seguintes condições:
+
+1. Preserve integralmente o layout, as cores, os textos, os campos e a organização visual.
+2. Não recrie o projeto e não remova funcionalidades existentes.
+3. Consulte fontes oficiais e verifique se as referências legais, artigos e normas continuam vigentes.
+4. Revise a jurisprudência citada e substitua referências superadas, inadequadas ou sem relação direta com o alerta.
+5. Atualize os alertas jurídicos de todos os setores existentes.
+6. Mantenha a localização das cláusulas por parágrafo, linha e trecho.
+7. Revise e amplie as expressões vagas, evitando falsos positivos.
+8. Melhore as sugestões automáticas de redação, preservando o sentido original da cláusula.
+9. Confira se os níveis de risco estão coerentes com o tipo de alerta.
+10. Revise as bibliotecas PDF.js e Mammoth.js e atualize somente se houver necessidade e compatibilidade comprovadas.
+11. Preserve a importação de TXT, PDF e DOCX.
+12. Preserve o processamento local e os avisos de que a ferramenta não substitui parecer jurídico.
+13. Não apresente possíveis riscos como ilegalidades confirmadas.
+14. Faça uma cópia de segurança antes das alterações.
+15. Valide a sintaxe do JavaScript e a integridade do arquivo final.
+16. Entregue:
+    - o index.html atualizado;
+    - um arquivo ZIP com o projeto;
+    - a cópia de segurança anterior;
+    - um resumo objetivo das alterações realizadas.
+
+Não faça alterações meramente estéticas. Se não houver necessidade de atualizar algum item, mantenha-o como está.
