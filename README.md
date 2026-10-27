@@ -600,3 +600,7 @@ Este README descreve a versão do `index.html` disponibilizada nesta etapa da co
 - jurisprudência indicativa;
 - atualização automática ao trocar o setor;
 - exportação de relatório HTML.
+
+  ---
+
+Este projeto é uma demonstração educacional desenvolvida para estudos de HTML, CSS e JavaScript. A empresa mencionada é fictícia e qualquer semelhança com empresas reais é mera coincidência.
